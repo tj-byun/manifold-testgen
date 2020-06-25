@@ -1,0 +1,16 @@
+DEBUG: False
+save: True
+n_tests: 100
+save_dir: "generated/l8b2t9"
+train_data_sample_rate: 1.0
+optimizer:
+  bound: 3
+  n_particle: 32  # no longer used (8/3)
+  n_iter: 10
+  c1: 0.8     # 0 - 1
+  # social
+  c2: 0.3   # max 0.01
+  # inertial weight
+  w: 0.2
+  k: 4
+  p: 1
