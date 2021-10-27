@@ -21,7 +21,7 @@ contextlib2==0.5.5
 coverage==5.1
 cplex==12.8.0.0
 cycler==0.10.0
-dask==1.1.5
+dask==2021.10.0
 decorator==4.3.0
 deepdish==0.3.6
 defusedxml==0.5.0
