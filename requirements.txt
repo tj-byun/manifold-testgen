@@ -160,7 +160,7 @@ tables==3.4.4
 tb-nightly==1.14.0a20190301
 tensorboard==2.2.1
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow==2.2.0
+tensorflow==2.9.3
 tensorflow-datasets==3.1.0
 tensorflow-estimator==2.2.0
 tensorflow-gan==2.0.0
